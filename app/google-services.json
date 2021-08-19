@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251417428445",
+    "project_id": "the-student-junction-task",
+    "storage_bucket": "the-student-junction-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251417428445:android:c8f9b2fbb2aa8997bb3634",
+        "android_client_info": {
+          "package_name": "com.example.tsjtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251417428445-ccqf57ej3v7l5d2uhuh2gbqfeqns18mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUrv9vpSlB8piWyQ3ZQ3d9RWleAdUMrzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251417428445-ccqf57ej3v7l5d2uhuh2gbqfeqns18mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
